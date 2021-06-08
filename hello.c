@@ -13,5 +13,6 @@ int main(int argc, char **argv) {
 
   printf("John Kunkee/Xuan Wu\n");
   printf("Physics\n");
+  printf("Actuarial scient")
   return 0;
 }
